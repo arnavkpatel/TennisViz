@@ -1,0 +1,25 @@
+# This script will setup all scripts and analysis
+
+# Package Dependencies
+
+renv::install("devtools")
+renv::install("usethis")
+renv::install("rvest")
+renv::install("janitor")
+renv::install("readr")
+renv::install("markdown")
+renv::install("lubridate")
+renv::install("tibble")
+renv::install("tsibble")
+renv::install("purrr")
+renv::install("forcats")
+renv::install("hablar")
+renv::install("xfun")
+renv::install("gt")
+renv::install("gtsummary")
+renv::install("Hmisc")
+renv::install("here")
+renv::install("readr")
+renv::install("tidyr")
+renv::install("dplyr")
+renv::install("tidyverse")
